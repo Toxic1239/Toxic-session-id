@@ -57,7 +57,7 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by TOXXIC MD
+*_Pair Code Connected by TOXXIC MD*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
@@ -66,9 +66,9 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Owner:* _https://wa.me/33757054414_
-║❒ *Repo:* _https://github.com/Toxic1239/RIASGREMORYBOT
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U
+║❒ *Owner*:https://t.me/Toxxicn_bot
+║❒ *Repo*:https://github.com/Toxic1239/RIASGREMORYBOT
+║❒ *WaChannel*:https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U
 ╚════════════════════════╝
 _____________________________________
 _____________________________________
