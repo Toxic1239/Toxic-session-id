@@ -61,14 +61,16 @@ router.get('/', async (req, res) => {
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN  RIAS_GREMORY-BOT』*
+║ *『 WOW YOU'VE CHOSEN  RIAS GREMORY』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Owner*:https://t.me/Toxxicn_bot
 ║❒ *Repo*:https://github.com/Toxic1239/RIASGREMORYBOT
-║❒ *WaChannel*:https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U
+║❒ *Repo V2*:https://github.com/Toxic1239/Queen-RiasV2
+
+║❒ *WaChannel*:https://whatsapp.com/channel/0029Vao1R2n9sBIC9sPhvI1P
 ╚════════════════════════╝
 _____________________________________
 _____________________________________
