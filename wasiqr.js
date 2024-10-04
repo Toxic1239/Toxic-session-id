@@ -59,21 +59,23 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Pair Code Connected by TOXXIC MD
+*_Pair Code Connected by TOXXIC MD*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN  RIAS_GREMORY-BOT』*
+║ *『 WOW YOU'VE CHOSEN  RIAS GREMORY』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Owner:* _https://wa.me/33757054414_
-║❒ *Repo:* _https://github.com/Toxic1239/RIASGREMORYBOT
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U
+║❒ *Owner*:https://t.me/Toxxicn_bot
+║❒ *Repo*:https://github.com/Toxic1239/RIASGREMORYBOT
+║❒ *Repo V2*:https://github.com/Toxic1239/Queen-RiasV2
+║❒ *WaChannel*:https://whatsapp.com/channel/0029Vao1R2n9sBIC9sPhvI1P
 ╚════════════════════════╝
 _____________________________________
-	
+_____________________________________
+
 _Don't Forget To Give Star To My Repo_`
 	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
 
