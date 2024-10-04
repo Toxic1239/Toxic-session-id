@@ -69,7 +69,6 @@ ______________________________________
 ║❒ *Owner*:https://t.me/Toxxicn_bot
 ║❒ *Repo*:https://github.com/Toxic1239/RIASGREMORYBOT
 ║❒ *Repo V2*:https://github.com/Toxic1239/Queen-RiasV2
-
 ║❒ *WaChannel*:https://whatsapp.com/channel/0029Vao1R2n9sBIC9sPhvI1P
 ╚════════════════════════╝
 _____________________________________
